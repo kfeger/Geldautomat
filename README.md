@@ -1,0 +1,2 @@
+# Geldautomat
+Spender für Taschengeld
